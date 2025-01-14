@@ -1,0 +1,3 @@
+([('pokedex',
+   '/Users/kurisu/CODIGO/POKEMON_PROYECT/dist/pokedex',
+   'EXECUTABLE')],)
