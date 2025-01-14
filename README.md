@@ -1,6 +1,6 @@
 # Proyecto de Interfaz Gráfica con Python y Tkinter
 
-En esta actividad práctica tendrás la oportunidad de aplicar tus conocimientos en **Python** y **Tkinter** para desarrollar un proyecto de interfaz gráfica de usuario (**GUI**) que sea tanto funcional como atractivo. Este proyecto te permitirá explorar el uso de componentes, la creación de widgets, la gestión de layouts, el diseño responsive, la programación basada en eventos, y las buenas prácticas de diseño en el desarrollo de aplicaciones GUI.
+En esta actividad práctica tendrás la oportunidad de aplicar tus conocimientos en Python y Tkinter para desarrollar un proyecto de Visor de Imágenes que sea tanto funcional como atractivo. Este proyecto te permitirá explorar el uso de componentes, la creación de widgets, la gestión de layouts, el diseño responsive, la programación basada en eventos y las buenas prácticas de diseño en el desarrollo de interfaces gráficas de usuario.
 
 ---
 
