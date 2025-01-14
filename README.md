@@ -82,6 +82,12 @@ A continuación se presenta un **código de ejemplo** que muestra cómo crear un
 - **Creación de la interfaz gráfica** (widgets, layout, evento de `Buscar`)  
 - **Main** (punto de entrada)
 
+## Video de Implementación
+
+Puedes ver una demostración de la implementación en el siguiente video de YouTube:  
+[![Implementación del programa](https://img.youtube.com/vi/1sdrS_dJh00/0.jpg)](https://www.youtube.com/watch?v=1sdrS_dJh00&ab_channel=CristianPadron)
+
+
 ### Código
 
 ```python
